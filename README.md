@@ -1,2 +1,11 @@
-# Barbearia Alura
-Trabalho em Html Css
+# Website Barbearia Alura
+
+Site desenvolvido no curso de Front end da Alura.
+
+LINGUAGENS
+=> HTML
+=> CSS
+
+/Leilane Negrinho
+
+
